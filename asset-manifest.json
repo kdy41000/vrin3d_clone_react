@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vrin3d_clone_react/static/css/main.e09ed497.css",
-    "main.js": "/vrin3d_clone_react/static/js/main.78c50699.js",
+    "main.js": "/vrin3d_clone_react/static/js/main.c88d82c6.js",
     "static/js/453.b78c8515.chunk.js": "/vrin3d_clone_react/static/js/453.b78c8515.chunk.js",
     "static/media/slick.svg": "/vrin3d_clone_react/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/vrin3d_clone_react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/vrin3d_clone_react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/vrin3d_clone_react/index.html",
     "main.e09ed497.css.map": "/vrin3d_clone_react/static/css/main.e09ed497.css.map",
-    "main.78c50699.js.map": "/vrin3d_clone_react/static/js/main.78c50699.js.map",
+    "main.c88d82c6.js.map": "/vrin3d_clone_react/static/js/main.c88d82c6.js.map",
     "453.b78c8515.chunk.js.map": "/vrin3d_clone_react/static/js/453.b78c8515.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e09ed497.css",
-    "static/js/main.78c50699.js"
+    "static/js/main.c88d82c6.js"
   ]
 }
