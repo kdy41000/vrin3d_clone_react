@@ -1,0 +1,56 @@
+{
+    "header": {
+        "pricing": "가격정책",
+        "login": "로그인",
+        "startfree": "무료로 시작하기",
+        "vrin3d": "VRIN 3D를 사용해보고 싶다면",
+        "c1-explain-1": "AI로 만드는 3D 모델",
+        "c1-explain-2": "인공지능으로 자동 생성되는 3D 모델과",
+        "c1-explain-3": "손쉬운 편집을 경험해보세요."
+    },
+    "section-1": {
+        "title-1": "AI로 만드는 3D 모델",
+        "content-1": "인공지능으로 자동 생성되는 3D 모델과",
+        "content-2": "손쉬운 편집을 경험해보세요."
+    },
+    "section-2": {
+        "title-1": "모바일 기반의",
+        "title-2": "간편한 3D 스캐닝",
+        "content-1": "스튜디오와 고가의 스캐너 없이도",
+        "content-2": "누구나, 언제든"
+    },
+    "section-3": {
+        "title-1": "AI 기술로 더욱 빠르고",
+        "title-2": "더욱 리얼하게",
+        "content-1": "3D 모델을 제작하세요."
+    },
+    "section-4": {
+        "title-1": "3D의 손쉬운 편집과",
+        "title-2": "다양한 활용",
+        "content-1": "VRIN 3D와 함께 시작하세요."
+    },
+    "section-5": {
+        "title-1": "시간도 비용도 절약하는 3D 모델 제작",
+        "content-1": "무겁고 비싼 3D 스캐닝 장비없이 핸드폰 하나로 완성되는 3D,",
+        "content-2": "시간과 비용을 절약해 콘텐츠를 효율적으로 제작하세요.",
+        "bottom-1": { "title": "기기비용 절감", "content": "3D 스캐너 기준"},
+        "bottom-2": { "title": "시간 감축", "content": "모델러 작업시간 기준"},
+        "bottom-3": { "title": "에셋 생성비용 절감", "content": "모델러 인건비 기준"}
+    },
+    "section-6": {
+        "title-1": "스캔부터 편집까지 VRIN 3D에서 한번에",
+        "left-box-1": {"content-1":"모바일 기반의","content-2":"간편한","content-3":"3D 스캐닝"},
+        "left-box-2": {"content-1":"스튜디오와 고가의 스캐너 없이도","content-2":"누구나, 언제나 가능한 3D 스캐닝"},
+        "right-box-1": {"content-1":"누구나 손쉬운 편집이","content-2":"가능하도록","content-3":"VRIN 3D","content-4":"에디터"},
+        "right-box-2": {"content-1":"AI 재질 생성, 배경 편집 등","content-2":"에셋을 빠르게 편집"}
+    },
+    "section-7": {
+        "title-1": "생성한 3D 모델로 제작하는 다양한 콘텐츠",
+        "content-1": "VRIN 3D에서 제작한 3D 모델을 다운받아",
+        "content-2": "상품 홍보, 가상쇼룸, 광고 VFX 등에 사용하세요.",
+        "slick": {"title-1":"가상쇼룸","title-2":"전시","title-3":"상품정보"}
+    },
+    "section-8": {
+        "title-1":"아직도 망설여지세요?"
+    }
+}
