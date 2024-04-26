@@ -29,7 +29,6 @@ function Header({ headerChange, isOpen, setIsOpen }) {
   const toggleDropdown = () => {
     if (isOpen) setIsOpen(false);
     else setIsOpen(true);
-    //setIsOpen(!isOpen);
   };
 
   const onClickLang = (e) => {
