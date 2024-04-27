@@ -265,17 +265,6 @@ button {
     white-space: pre-wrap;
 }
 
-
-.css-1qsxih2 {
-    width: 100%;
-    margin-left: auto;
-    box-sizing: border-box;
-    margin-right: auto;
-    display: block;
-    padding-left: 16px;
-    padding-right: 16px;
-}
-
 .bRHYvC {
     flex-direction: row;
     justify-content: flex-end;
@@ -467,6 +456,7 @@ i {
 }
 
 .css-1qsxih2 {
+    max-width:1280px;
     width: 100%;
     margin-left: auto;
     box-sizing: border-box;
