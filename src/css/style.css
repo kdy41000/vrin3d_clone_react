@@ -1,10 +1,4 @@
-@media only screen and (max-width: 600px) {}
 
-@media only screen and (max-width: 768px) {}
-
-@media only screen and (max-width: 1280px) {}
-
-@media (min-width: 1281px) {}
 
 .eoOPJI {
     width: 100%;
@@ -256,7 +250,7 @@ button {
 
 .lhhxdU {
     background-color: rgb(5, 7, 14);
-    background-image: url(/assets/home_A-1_PC-24bf28eb.png);
+    background-image: url(../assets/home_A-1_PC-24bf28eb.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -829,15 +823,15 @@ i {
 }
 
 .slick-img1 {
-    background-image: url(/assets/carousel_thumbnail_1_PC-6a00eedf.png);
+    background-image: url('../assets/carousel_thumbnail_1_PC-6a00eedf.png');
 }
 
 .slick-img2 {
-    background-image: url(/assets/carousel_thumbnail_2_PC-774a2af5.png);
+    background-image: url('../assets/carousel_thumbnail_2_PC-774a2af5.png');
 }
 
 .slick-img3 {
-    background-image: url(/assets/carousel_thumbnail_3_PC-471f312e.png);
+    background-image: url('../assets/carousel_thumbnail_3_PC-471f312e.png');
 }
 
 .bPygHU {

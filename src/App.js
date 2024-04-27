@@ -1,4 +1,6 @@
-import "./App.css";
+import "./css/index.css";
+import "./css/style.css";
+import "./css/media.css";
 import { useState, useEffect, useRef } from "react";
 import Header from "./components/Header";
 import MainContainer from "./components/MainContainer";

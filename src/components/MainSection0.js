@@ -6,7 +6,7 @@ import Section from "./Section";
 function MainSection0() {
   const { t } = useTranslation();
   return (
-    <Section id="section0" videoSource="/assets/home_content_1_PC-3cb3a75d.mp4">
+    <Section id="section0" videoSource="video/home_content_1_PC-3cb3a75d.mp4">
       <Stack class="css-opkp0k">
         <Stack class="sc-mYrQG dULNKs css-j7qwjs">
           <svg

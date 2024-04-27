@@ -187,13 +187,13 @@ function MainSection4() {
                 </svg>
               </Stack>
               <img
-                src="/assets/home_C-1_PC_ko-093e56a1.png"
+                src={require("../assets/home_C-1_PC_ko-093e56a1.png")}
                 alt=""
                 className="sc-eCKhVa hcwUHC"
               />
               <img
                 id="video-image"
-                src="/assets/home_C-3_PC-52386fbc.png"
+                src={require("../assets/home_C-3_PC-52386fbc.png")}
                 alt=""
                 className="sc-kfldBZ dJMMkK"
               />
@@ -204,7 +204,10 @@ function MainSection4() {
                 autoPlay
                 className="sc-eNdSxs lgTkxA"
               >
-                <source src="/assets/home_2_PC-f15f3e50.mp4" type="video/mp4" />
+                <source
+                  src={`${process.env.PUBLIC_URL}/video/home_2_PC-f15f3e50.mp4`}
+                  type="video/mp4"
+                />
               </video>
             </Stack>
             <Stack
@@ -246,76 +249,76 @@ function MainSection4() {
                 </svg>
               </Stack>
               <img
-                src="/assets/home_C-2_PC_ko-5168634f.png"
+                src={require("../assets/home_C-2_PC_ko-5168634f.png")}
                 alt=""
                 className="sc-fgrUxn JYxKw"
               />
               <img
                 width="100%"
-                src="/assets/home_bag_1-016e6c5c.png"
+                src={require("../assets/home_bag_1-016e6c5c.png")}
                 alt=""
                 className="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_2-ec220ca9.png"
+                src={require("../assets/home_bag_2-ec220ca9.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_3-58b0e494.png"
+                src={require("../assets/home_bag_3-58b0e494.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_4-b1fee5e3.png"
+                src={require("../assets/home_bag_4-b1fee5e3.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_5-b77afbdd.png"
+                src={require("../assets/home_bag_5-b77afbdd.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_6-78494c33.png"
+                src={require("../assets/home_bag_6-78494c33.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_7-dc30c20d.png"
+                src={require("../assets/home_bag_7-dc30c20d.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_8-38aed96a.png"
+                src={require("../assets/home_bag_8-38aed96a.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_9-5e42e9c2.png"
+                src={require("../assets/home_bag_9-5e42e9c2.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
               />
               <img
                 width="100%"
-                src="/assets/home_bag_10-3c83f6b4.png"
+                src={require("../assets/home_bag_10-3c83f6b4.png")}
                 alt=""
                 class="sc-iPFVka BZqer image-fade-in"
                 style={{ opacity: 0 }}
@@ -338,7 +341,7 @@ function MainSection4() {
               <div>{t(`section-7.content-2`)}</div>
             </span>
             <img
-              src="/assets/home_D-1_PC-0b362984.png"
+              src={require("../assets/home_D-1_PC-0b362984.png")}
               alt=""
               className="sc-loAfXr ifPUKW"
             />

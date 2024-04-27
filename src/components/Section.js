@@ -1,11 +1,17 @@
-import React from 'react';
+import React from "react";
 
 function Section({ id, videoSource, children }) {
   return (
     <div id={id} className="sc-gvLeZx fJCXLf">
-      <div className="sc-cPzCod nmnyx content" style={{position: "absolute", top: "0px", bottom: "unset"}}>
+      <div
+        className="sc-cPzCod nmnyx content"
+        style={{ position: "absolute", top: "0px", bottom: "unset" }}
+      >
         <video width="100%" height="100%" loop muted playsInline autoPlay>
-          <source src={videoSource} type="video/mp4" />
+          <source
+            src={`${process.env.PUBLIC_URL}/${videoSource}`}
+            type="video/mp4"
+          />
         </video>
         <div className="sc-iMOaIs eVJoZ"></div>
       </div>
